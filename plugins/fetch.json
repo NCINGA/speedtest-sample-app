@@ -1,0 +1,10 @@
+{
+  "com.ncinga.speedtest": {
+    "source": {
+      "type": "local",
+      "path": "/home/shehan/Desktop/ookla_project/pluginV3/NcingaSpeedTest/node_modules/ookla-speedtest"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
